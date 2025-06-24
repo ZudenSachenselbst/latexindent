@@ -1,0 +1,46 @@
+
+\begin{aligned}\begin{cases}x_{1}=r=\sqrt{\left( \overline{x}_{1}\right) ^{2}+\left( \overline{x}_{2}\right) ^{2}}\\
+x_{2}=\theta =\cdot \tan ^{-1}\left( \dfrac{\overline{x}_{2}}{\overline{x}_{1}}\right) \end{cases}\\
+.\end{aligned}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\overline{T}j^{i}=T_{s}^{r}\dfrac{
+\partial \overline{x}_{i}}{2xv}
+\dfrac{\partial x^{s}}{\partial \overline{x}^{j}}+T^{r}\dfrac{\partial ^{2}\overline{x}^{i}}{\partial x^{r}\partial x^{s}}\dfrac{\partial x^{s}}{\partial \overline{x}^{j}}
+
+%%%%%%%%%%%%%%%%%%%%%%%%
+
+\boldsymbol{ J }  =
+
+\begin{pmatrix}
+
+    \frac{ \partial \color{green}{ \bar{x}^1} } 
+         { \partial  \color{blue}{ x^1} }  & 
+
+    \frac{ \partial \color{green}{  \bar{x}^1} } 
+         { \partial \color{blue}{x^2} }  \\  
+
+    \frac{ \partial \color{green}{  \bar{x}^2} } 
+         { \partial  \color{blue}{x^1} }  & 
+
+    \frac{ \partial \color{green}{  \bar{x}^2} } 
+         { \partial \color{blue}{x^2} }  \\  
+
+\end{pmatrix}
+
+= 
+
+\begin{pmatrix}
+
+
+\cos \color{blue}{x^2} &&  - \color{blue}{x^1}   \sin \color{blue}{x^2}  \\
+\sin \color{blue}{x^2} &&    \color{blue}{x^1}   \cos \color{blue}{x^2}  \\
+
+
+\end{pmatrix}
+
+
+
