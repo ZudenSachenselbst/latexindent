@@ -1,0 +1,10 @@
+\begin{pmatrix}
+\displaystyle{ \frac{ \bar{x}^1 }{ \sqrt{      (\bar{x}^1)^2 + ( \bar{x}^2 )^2   } }  }
+&&
+\displaystyle{ \frac{ \bar{x}^2 }{ \sqrt{      (\bar{x}^1)^2 + ( \bar{x}^2 )^2   } }  }
+
+\\
+\displaystyle{ \frac{ \bar{x^1} ^2 } { (\bar{x^1})^2 + ( \bar{x}^2 )^2   } \times -  \frac{ \bar{x}^2 }{ (\bar{x}^1  )^2  } }
+      &&
+\displaystyle{ \frac{ \bar{x^1} ^2 } { (\bar{x^1})^2 + ( \bar{x}^2 )^2   } \times \frac{ 1 }{ \bar{x}^1    } }
+\end{pmatrix}
